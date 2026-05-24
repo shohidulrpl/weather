@@ -1,0 +1,6 @@
+{
+  "name": "Weather Forecast",
+  "description": "Weather Forecast based on Chattogram, Bangladesh only. Complete offline forecast with 7-day details, sunrise/sunset, and local weather journals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
